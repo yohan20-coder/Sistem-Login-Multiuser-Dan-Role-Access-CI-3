@@ -14,3 +14,6 @@ Programmer dalam membuat project menggunakan CI 3**
 *******************
 ![screenshot-localhost-2022 03 15-20_29_05](https://user-images.githubusercontent.com/76047090/158391325-98b7ef0b-c2ab-4b49-8c5e-fb87dad90bb7.png)
 
+************
+**By : Yohanes Ardianus Wee**
+************
